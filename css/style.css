@@ -1,7 +1,28 @@
+div{
+    background-color: blueviolet;
+    border-radius: 10px;
+    
+}
+
 .logo-img {
-    margin-top: 1px;
-    width: fit-content;
+    margin-top: 20px;
+    display: block;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 h1{
+    font-weight: bolder;
+    margin-left: 500px;
+    
+}
+.sub-topic{
+    margin-left: 500px;
+}
+
+.recipes{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
+    margin-left: 500px;
 }
